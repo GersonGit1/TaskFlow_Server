@@ -35,7 +35,7 @@ Backend de **Task Flow**, una plataforma moderna para la **gestión de proyectos
 ## ⚙️ Instalación y configuración
 
 1. **Clona el repositorio**
-   git clone https://github.com/tu-usuario/uptask-backend.git
+   git clone https://github.com/GersonGit1/TaskFlow_Server.git
 2. **Instala dependencias**
    npm install
 3. **Configura las variables de entorno**
